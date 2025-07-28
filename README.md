@@ -17,3 +17,10 @@ A Streamlit web app to identify vehicle information based on brand, model, and V
 ```bash
 git clone https://github.com/MohamedBenbrahim23/vehicle-lookup-app.git
 cd vehicle-lookup-app
+
+2.Install dependencies:
+pip install -r requirements.txt
+Run the app locally:
+
+3. run the app locally
+streamlit run vehicle_lookup_streamlit_with_log.py
